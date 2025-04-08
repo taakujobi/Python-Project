@@ -1,7 +1,3 @@
-Requiment to run this app:
--> python==3.7+
--> tkinter==
-
 beautifulsoup4==4.11.1
 cachetools==5.2.0
 certifi==2022.12.7
@@ -38,4 +34,3 @@ SQLAlchemy==1.4.45
 urllib3==1.26.13
 Werkzeug==2.2.2
 zipp==3.11.0
- 
