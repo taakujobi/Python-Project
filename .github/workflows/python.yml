@@ -52,7 +52,7 @@ jobs:
 
           # Tag and push
           git tag "$new_tag"
-          git push origin "$new_tag"       #Tag workflow ends here
+          git push origin "$new_tag"       #Tag workflow ends
 
 
       - name: Set up Python
