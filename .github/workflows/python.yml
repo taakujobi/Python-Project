@@ -72,3 +72,4 @@ jobs:
 
       - name: Push Docker image
         run: docker push taakujobi/python-app:${{ steps.tag.outputs.new_tag }}
+#works now
