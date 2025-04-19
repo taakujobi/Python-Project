@@ -10,7 +10,7 @@ jobs:
   build-and-push:
     runs-on: ubuntu-latest
     permissions: write-all
-#    permissions:
+#    permissions:jj
 #      contents: read
 #      pages: write
 
