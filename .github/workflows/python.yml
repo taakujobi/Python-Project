@@ -1,5 +1,5 @@
 name: CI & Docker Build
-# Add comment
+# Add comment.
 on:
   push:
     branches: [ "main" ]
