@@ -9,7 +9,10 @@ on:
 jobs:
   build-and-push:
     runs-on: ubuntu-latest
-    permissions: write-all
+   # permissions: write-all
+    permissions:
+      contents: read
+      pages: write
 
     steps:
       - uses: actions/checkout@v4
